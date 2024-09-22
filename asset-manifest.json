@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Custom-Music-Player-API/static/css/main.ab23b4cc.css",
-    "main.js": "/Custom-Music-Player-API/static/js/main.b6fea320.js",
-    "static/js/453.8ab44547.chunk.js": "/Custom-Music-Player-API/static/js/453.8ab44547.chunk.js",
-    "static/media/talkingToTheMoon.mp3": "/Custom-Music-Player-API/static/media/talkingToTheMoon.2d5a8086e7d0d5f9bf57.mp3",
-    "index.html": "/Custom-Music-Player-API/index.html",
-    "main.ab23b4cc.css.map": "/Custom-Music-Player-API/static/css/main.ab23b4cc.css.map",
-    "main.b6fea320.js.map": "/Custom-Music-Player-API/static/js/main.b6fea320.js.map",
-    "453.8ab44547.chunk.js.map": "/Custom-Music-Player-API/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/Custom-PopUp-Music-Player-API/static/css/main.ab23b4cc.css",
+    "main.js": "/Custom-PopUp-Music-Player-API/static/js/main.1b1f7a31.js",
+    "static/js/453.8ab44547.chunk.js": "/Custom-PopUp-Music-Player-API/static/js/453.8ab44547.chunk.js",
+    "static/media/talkingToTheMoon.mp3": "/Custom-PopUp-Music-Player-API/static/media/talkingToTheMoon.2d5a8086e7d0d5f9bf57.mp3",
+    "index.html": "/Custom-PopUp-Music-Player-API/index.html",
+    "main.ab23b4cc.css.map": "/Custom-PopUp-Music-Player-API/static/css/main.ab23b4cc.css.map",
+    "main.1b1f7a31.js.map": "/Custom-PopUp-Music-Player-API/static/js/main.1b1f7a31.js.map",
+    "453.8ab44547.chunk.js.map": "/Custom-PopUp-Music-Player-API/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab23b4cc.css",
-    "static/js/main.b6fea320.js"
+    "static/js/main.1b1f7a31.js"
   ]
 }
